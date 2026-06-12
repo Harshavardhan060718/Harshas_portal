@@ -1,0 +1,10 @@
+venv/
+__pycache__/
+*.pyc
+.DS_Store
+
+# Ignore database files
+*.db
+
+# Ignore Firebase service account secret keys
+backend/*.json
